@@ -1,6 +1,6 @@
 # CO2 Assignment 2
 
-Student name: To be filled in  
+Student name: Dev Narayan E
 Register number: 1924260165  
 Python version used: Python 3.15.1  
 Libraries: Python standard library only
