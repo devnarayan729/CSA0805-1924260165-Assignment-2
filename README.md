@@ -31,10 +31,3 @@ python Task07\q7_redesign.py
 - Task 6 compares recursive and loop solutions, counts calls, and tests the recursion limit.
 - Task 7 replaces repeated recursive work with a loop that stores only two earlier results.
 
-## Simple review
-
-I learned that conditions must be checked carefully at boundary values.  
-Blank input should not use up an OTP attempt.  
-The loop version of the stairs problem uses less memory for large inputs.
-
-Fill in your name before submitting. Add your own screenshots and upload the folder to the required GitHub repository.
